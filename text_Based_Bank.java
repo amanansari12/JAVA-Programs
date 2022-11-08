@@ -1,4 +1,3 @@
-package All_Java_Codes.textBank;
 import java.util.Scanner;
 
 public class text_Based_Bank {
