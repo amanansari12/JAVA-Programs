@@ -54,7 +54,7 @@ public class text_Based_Bank {
                 int index = input.nextInt();
                 System.out.println("Please Input your new account balance: ");
                 accountBalances[index] = input.nextDouble();
-                System.out.println("The new account balance of Customer " + accountNames[index] + " is "+ accountBalances[index]);
+                System.out.println("The new account balance of Customer " + accountNames[index] + " is $"+ accountBalances[index]);
             }
             else if (userInput == 5){
                 System.out.println("Bank all Summary menu");
